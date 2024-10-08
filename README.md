@@ -57,20 +57,19 @@ To run any project in this repository, follow the steps below:
    cd Selenium-Automation
 
 2. **Create a virtual environment:**
-  On **macOS/Linux**
-  ```bash
-  python3 -m venv venv
-  source venv/bin/activate
-
-  On Windows
-  python -m venv venv
+   On macOS/Linux:
+   ```bash
+   python3 -m venv venv
+   source venv/bin/activate
+   On Windows:
+   python -m venv venv
   .\venv\Scripts\activate
 
 
-3. **Install dependencies:**
+4. **Install dependencies:**
    pip install -r requirements.txt
 
-4. **Run the project**
+5. **Run the project**
 
 ## 🤝 Contributing
 Contributions are welcome! If you find a bug or have an idea for a new feature, feel free to open an issue or submit a pull request. Please make sure your contributions adhere to the project's coding guidelines and best practices.
