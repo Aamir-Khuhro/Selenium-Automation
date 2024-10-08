@@ -57,9 +57,7 @@ To run any project in this repository, follow the steps below:
    cd Selenium-Automation
 
 2. **Create a virtual environment:**
-   
    ```bash
-  On macOS/Linux
   python3 -m venv venv
   source venv/bin/activate
 
