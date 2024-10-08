@@ -55,3 +55,31 @@ To run any project in this repository, follow the steps below:
    ```bash
    git clone https://github.com/your-username/Selenium-Automation.git
    cd Selenium-Automation
+
+2. **Create a virtual environment:**
+   
+   ```bash
+  On macOS/Linux
+  python3 -m venv venv
+  source venv/bin/activate
+
+  On Windows
+  python -m venv venv
+  .\venv\Scripts\activate
+
+
+3. **Install dependencies:**
+   pip install -r requirements.txt
+
+4. **Run the project**
+
+## 🤝 Contributing
+Contributions are welcome! If you find a bug or have an idea for a new feature, feel free to open an issue or submit a pull request. Please make sure your contributions adhere to the project's coding guidelines and best practices.
+
+## 📝 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Thank you for checking out the **Selenium-Automation** repository! Stay tuned for exciting automation projects 🚀.
+
+
+   
