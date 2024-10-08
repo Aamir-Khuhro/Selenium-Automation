@@ -1,6 +1,6 @@
 # Selenium-Automation
 
-Welcome to the **Selenium-Automation** repository! This repository will contain various automation projects and work, primarily focusing on web automation, web scraping, AI use cases, and more. The goal is to showcase practical applications of Selenium and other related tools for automating repetitive tasks and solving real-world problems.
+Welcome to the **Selenium-Automation** repository! This repository contains various automation projects and work, primarily focusing on web automation, web scraping, AI use cases, and more. The goal is to showcase practical applications of Selenium and other related tools for automating repetitive tasks and solving real-world problems.
 
 ## Table of Contents
 - [About the Repository](#about-the-repository)
