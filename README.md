@@ -2,7 +2,7 @@
 
 Welcome to the **Selenium-Automation** repository! This repository will contain various automation projects and work, primarily focusing on web automation, web scraping, AI use cases, and more. The goal is to showcase practical applications of Selenium and other related tools for automating repetitive tasks and solving real-world problems.
 
-## 📑 Table of Contents
+## Table of Contents
 - [About the Repository](#about-the-repository)
 - [Projects](#projects)
   - [Web Automation](#web-automation)
@@ -13,7 +13,7 @@ Welcome to the **Selenium-Automation** repository! This repository will contain 
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🚀 About the Repository
+## About the Repository
 This repository will serve as a collection of automation projects where I experiment with **Selenium** and other tools to automate web-based tasks. From automating form submissions to extracting data from websites, this repository will demonstrate various real-world use cases. Additionally, I will explore how AI can be integrated into these tasks to enhance automation workflows.
 
 Technologies I will use in this repository include:
@@ -22,7 +22,7 @@ Technologies I will use in this repository include:
 - **AI/ML models** for integrating AI into automation
 - **Python** for scripting and task automation
 
-## 💻 Projects
+## Projects
 ### Web Automation
 These projects focus on automating various web-based activities such as:
 - Filling forms automatically
@@ -47,7 +47,7 @@ Additional automation projects, including but not limited to:
 - Scheduling automated tasks
 - Building intelligent bots to perform daily repetitive tasks
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 To run any project in this repository, follow the steps below:
 
@@ -72,10 +72,10 @@ To run any project in this repository, follow the steps below:
 
 5. **Run the project**
 
-## 🤝 Contributing
+## Contributing
 Contributions are welcome! If you find a bug or have an idea for a new feature, feel free to open an issue or submit a pull request. Please make sure your contributions adhere to the project's coding guidelines and best practices.
 
-## 📝 License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Thank you for checking out the **Selenium-Automation** repository! Stay tuned for exciting automation projects 🚀.
